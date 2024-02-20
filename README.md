@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100" height="100" style="broder-radius=50%;" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/profile.png">
+  <img width="100" height="100" style="broder-radius:50%;" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/profile.png">
+  <br />
   Hello!
 </p>
 
