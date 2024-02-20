@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/profile_no_bg.png">
+  <img width="100" height="100" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/profile_no_bg.png">
 </p>
 
 ## Langauges
