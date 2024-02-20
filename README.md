@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="200" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/profile_no_bg.png">
+</p>
+
 ## Langauges
 <img alt="C lang icon" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/c.svg" height="32px" />  <img alt="C++ lang icon" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/cpp.svg" height="32px" />  <img alt="TypeScript icon" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/typescript.svg" height="32px" />  <img alt="Python icon" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/python.svg" height="32px" />  <img alt="Java icon" src="https://github.com/saidkharboutli/saidkharboutli/blob/main/assets/java.svg" height="32px" />
 
