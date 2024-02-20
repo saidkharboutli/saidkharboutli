@@ -1,2 +1,3 @@
-## 📫 How to reach me: 
-[![Linkedin](https://github.com/saidkharboutli/saidkharboutli/assets/linkedin-pixelated.avif) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan)  [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG)
+## 📫 How to reach me
+
+<img alt="LinkedIn icon" src="https://github.com/saidkharboutli/saidkharboutli/assets/linkedin-pixelated.avif" height="32px" />
